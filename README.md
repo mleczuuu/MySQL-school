@@ -5,3 +5,5 @@ It contains data about:
 - Students
 - Subjects
 - Teachers
+</br>
+All of the queries are inside the [this](../blob/master/Sql_Queries.txt) file
