@@ -6,4 +6,4 @@ It contains data about:
 - Subjects
 - Teachers
 </br>
-All of the queries are inside the [this](../blob/master/Sql_Queries.txt) file
+All of the queries are inside the <a href="SQL_Queries.txt">this</a> file
